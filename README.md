@@ -1,5 +1,4 @@
 # Overview
-
 ## Design Principal
 
 - Always `final` whenever possible
@@ -46,8 +45,6 @@
 ## Performance
 
 ![performance](./doc/image/performance.png)
-
-- Result of [`./doc/run-api-tests.sh`](./doc/run-api-tests.sh)
 
 # What can be done more
 
