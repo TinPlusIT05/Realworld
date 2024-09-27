@@ -51,6 +51,3 @@
 - User class doing so many things now. It can be improved someway.
 - Service classes can be divided into smaller services
 - Test cases order can be improved
-  
-# Referenced
-
